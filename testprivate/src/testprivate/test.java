@@ -6,5 +6,6 @@ public class test {
 	public static void main (String[] args) {
 		random = (int) Math.random();
 		System.out.println(random);
+		System.out.println("Vincent du bist zu spät!!!!!");
 	}
 }
